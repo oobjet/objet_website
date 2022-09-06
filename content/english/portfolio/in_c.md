@@ -23,3 +23,4 @@ A single guitarist surrounded by six amplifiers creates this bewitching piece, e
 
 .composed by terry riley. one performer. one guitar. six amps. synchronized live loopers. one take. no overdub.
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=456099347/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://objet.bandcamp.com/album/in-c-2">in c by Objet</a></iframe>
