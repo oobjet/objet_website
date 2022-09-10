@@ -1,10 +1,10 @@
 ---
-title : "LISTEN"
+title : "new album"
 bg_image : "images/backgrounds/bandcamp.png"
 button:
   enable : true
-  label : "bandcamp"
-  link : "https://objet.bandcamp.com"
+  label : "listen"
+  link : "https://objet.bandcamp.com/album/preuve"
 
 
 # custom style
