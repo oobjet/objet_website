@@ -1,5 +1,6 @@
 ---
 title : "I'm florian (aka objet)"
+description: "guitar lover loopist producer based in Lyon, France."
 # full screen navigation
 first_name : "florian"
 last_name : "aka objet"

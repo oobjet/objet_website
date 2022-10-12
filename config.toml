@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://oooooooooo.net"
-title = "objet alternative guitar"
+title = "objet music alternative guitar commposition and looping"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -12,6 +12,8 @@ disableLanguages = [] # disable language from here
 googleAnalytics = " UA-93558558-1" # example : UA-123-45
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
+# robots
+enableRobotsTXT = true
 
 ############################# Outputs ##############################
 [outputs]
@@ -66,8 +68,8 @@ logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 logo_width = "150px"
 # Meta data
-description = "home of musical projet objet"
-author = "florian"
+description = "music label open to experimentation. solo guitar. loop based music. electronic IDM made by humans. film score. free open source tips and tricks for music production"
+author = "objet"
 
 # Preloader
 [params.preloader]

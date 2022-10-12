@@ -1,5 +1,6 @@
 ---
 title : "REVIEWS"
+description: "Keiko Tsuda were one of the many players in the vibrant collective of French electronic math.tempus fugit is the ritual music for a post-apocalyptic society which has descended into savagery in the bombed-out streets of new york.A very interesting and worthwhile solo live performance of In C done with loopers"
 testimonial_slider:
 # slider item loop
 - name : "bandcamp fan"

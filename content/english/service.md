@@ -1,5 +1,6 @@
 ---
 title : "PROJECTS"
+description: "tempus fugit, objet, keiko tsuda and more to come"
 service_list:
 # service item loop
 - name : "tempus fugit"
