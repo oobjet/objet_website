@@ -13,11 +13,11 @@ service_list:
 # service item loop
 - name : "keiko tsuda"
   image : "images/icons/kt_dessin.jpg"
-  
-
 
 # custom style
 custom_class: "" 
 custom_attributes: "" 
 custom_css: ""
 ---
+
+bla bla
